@@ -143,7 +143,8 @@ const irregular_verbs = {
     past: 'found'
   },
   fly: {
-    past: 'flew'
+    past: 'flew',
+    pluperfect: 'flown'
   },
   forbid: {
     past: 'forbade'
@@ -260,7 +261,8 @@ const irregular_verbs = {
     past: 'showed'
   },
   sing: {
-    past: 'sang'
+    past: 'sang',
+    pluperfect: 'sung'
   },
   sink: {
     past: 'sank',
@@ -309,7 +311,8 @@ const irregular_verbs = {
     past: 'swore'
   },
   swim: {
-    past: 'swam'
+    past: 'swam',
+    pluperfect: 'swum'
   },
   swing: {
     past: 'swung'
